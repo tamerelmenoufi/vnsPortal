@@ -32,7 +32,7 @@
                     <img src="painel/img/logopainel.png" class="img-fluid">
                 </div>
                 <div class="col-md-6" style="text-align:center">
-                    <h2 style="color:#16999a">EM DESENVOLVIMENTO</h2>
+                    <h2 style="color:#055078">EM DESENVOLVIMENTO</h2>
                 </div>
             </div>
         </div>
