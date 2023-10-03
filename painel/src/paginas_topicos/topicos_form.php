@@ -1,6 +1,6 @@
 <?php
 
-    include("{$_SERVER['DOCUMENT_ROOT']}/portal/painel/lib/includes.php");
+    include("{$_SERVER['DOCUMENT_ROOT']}/vns/vnsPortal/painel/lib/includes.php");
 
 
 
