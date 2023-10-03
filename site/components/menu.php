@@ -41,6 +41,7 @@
         Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/logo.png" style="height:100px !important; position:fixed; left:10px; top:10px;" alt="">
       <!-- </a> -->
+      <span></span>
 
       <nav id="navbar" class="navbar">
       <?php
