@@ -39,7 +39,7 @@
 
       <!-- <a href="index.php" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
         Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" style="height:150px !important;" alt="">
+        <img src="assets/img/logo.png" style="height:100px !important; position:fixed; left:10px; top:10px;" alt="">
       <!-- </a> -->
 
       <nav id="navbar" class="navbar">
