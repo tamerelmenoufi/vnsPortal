@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./painel/assets/img/favicon.png" rel="icon">
   <link href="./painel/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-    <title>Project</title>
+    <title>VNS</title>
     <?php
     include("./painel/lib/header.php");
     ?>
